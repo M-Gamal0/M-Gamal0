@@ -1,37 +1,74 @@
 <h1>Hi, I'm Mohammed Gamal</h1>
 
 <p>
-Investment Analyst focused on <b>portfolio management</b>, <b>ETF rebalancing</b>, <b>equity research</b>, and <b>Python-based investment analytics</b>.
+I'm an investment analyst who enjoys building practical tools for portfolio management, ETF rebalancing, equity research, and market analytics.
 </p>
 
 <p>
-I work at the intersection of public markets, portfolio operations, investment research, and automation — building tools that improve monitoring, rebalancing, allocation analysis, and investment decision workflows.
+My background is in public markets, but I’ve become increasingly interested in coding because it lets me turn repetitive investment work into cleaner, faster, and more scalable processes.
 </p>
 
 ---
 
-<h2>📌 About Me</h2>
+<h2>About Me</h2>
 
-- Portfolio Management Analyst with experience across ETF/fund monitoring, rebalancing, allocation execution, exposure tracking, liquidity monitoring, and investment reporting.
-- Previous buy-side equity research experience covering banks and petrochemicals, including financial modeling, DCF valuation, comparable company analysis, investment memoranda, and earnings analysis.
-- Building a stronger technical edge in Python, portfolio analytics, quantitative research workflows, and AI-assisted investment processes.
-- CFA Level II Candidate.
-- Based in Abu Dhabi, UAE.
+I started using Python and automation because I kept seeing the same problem in finance: a lot of important work still depends on manual Excel checks, repeated data cleaning, and fragile workflows.
 
----
+I’m interested in building tools that make investment analysis more systematic — not just for the sake of coding, but because better tools can improve decision-making, reduce errors, and free up time for higher-quality thinking.
 
-<h2>💼 Core Focus Areas</h2>
+At the moment, I’m mainly building around:
 
-- ETF portfolio management and rebalancing workflows  
-- Portfolio analytics, performance attribution, and exposure monitoring  
-- Equity research, financial modeling, and valuation  
-- Python automation for investment workflows  
-- Data-driven public markets analysis  
-- Risk, liquidity, and execution-quality monitoring  
+- ETF rebalancing and portfolio monitoring
+- Python-based investment analytics
+- Equity research and valuation tools
+- Portfolio optimization and risk analysis
+- Public markets data pipelines
 
 ---
 
-<h2>🛠️ Technical & Finance Toolkit</h2>
+<h2>Featured Project</h2>
+
+<h3>
+  <a href="https://github.com/M-Gamal0/ETFs_Rebalancing_Tool">ETF Rebalancing Tool</a>
+</h3>
+
+<p>
+This is my first public GitHub project. It is a Python-based ETF rebalancing tool that compares current holdings against target index weights and generates suggested equity and FX trades.
+</p>
+
+<p>
+The idea behind the project is simple: take a workflow that is usually done manually across Excel files, make the logic clearer, and automate the repetitive parts using Python.
+</p>
+
+<b>What it does:</b>
+
+- Reads current ETF holdings and target index weights
+- Calculates allocation differences
+- Generates suggested buy/sell equity trades
+- Estimates FX trades required for multi-currency exposure
+- Produces clean output files for review
+
+<b>Built with:</b> Python, Pandas, NumPy, OpenPyXL, Excel/CSV files
+
+---
+
+<h2>What I'm Building Toward</h2>
+
+I’m using GitHub to document my progress as I build stronger technical depth in investment analytics.
+
+The direction I’m working toward is a combination of:
+
+- Portfolio management
+- Quantitative and systematic investing
+- Public markets research
+- Python automation
+- AI-assisted investment workflows
+
+The goal is to build useful finance-native tools, not generic coding projects.
+
+---
+
+<h2>Tools I Use</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,58 +80,23 @@ I work at the intersection of public markets, portfolio operations, investment r
   <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<b>Finance:</b> Portfolio Monitoring, Rebalancing, Performance Attribution, Risk Analysis, Sector Exposure Analysis, Liquidity Monitoring, Equity Research, DCF Valuation, Comparable Company Analysis, Financial Modeling  
+<b>Finance:</b> portfolio monitoring, ETF rebalancing, equity research, valuation, performance attribution, risk analysis  
 <br/>
-<b>Tools:</b> Python, Pandas, NumPy, SQL, Advanced Excel, VBA, Power Query, Power BI, Bloomberg Terminal, Git/GitHub  
+<b>Technical:</b> Python, Pandas, NumPy, SQL, Excel, VBA, Power Query, Power BI, Bloomberg, Git/GitHub  
 
 ---
 
-<h2>👨‍💻 Featured Investment Analytics Project</h2>
+<h2>Currently Learning</h2>
 
-<h3>ETF Rebalancing Tool</h3>
-
-<a href="https://github.com/M-Gamal0/ETFs_Rebalancing_Tool">
-  <b>ETF Rebalancing Tool — Python-based equity and FX trade blotter generator</b>
-</a>
-
-<p>
-A Python tool that automates a simplified ETF rebalancing workflow. The project compares current ETF holdings against target index weights, calculates allocation differences, generates equity buy/sell trades, and estimates the FX trades needed to fund multi-currency portfolio activity.
-</p>
-
-<b>Key features:</b>
-
-- Loads current ETF holdings, target index weights, and user-defined rebalancing controls.
-- Calculates current versus target allocation differences.
-- Generates equity trade recommendations based on configurable thresholds.
-- Aggregates non-USD cash flows and produces FX trade blotters.
-- Uses public demo data for educational and portfolio demonstration purposes.
-
-<b>Tech stack:</b> Python, Pandas, NumPy, OpenPyXL, CSV/Excel workflow automation
+- Better Python project structure
+- Portfolio optimization and risk models
+- Cleaner data pipelines
+- Testing and documentation
+- More advanced quantitative finance concepts
 
 ---
 
-<h2>🚧 Current Build Direction</h2>
-
-I am actively building public projects around:
-
-- ETF analytics and rebalancing automation
-- Portfolio optimization and risk analytics
-- Performance attribution and exposure dashboards
-- Public markets data pipelines
-- Quantitative research workflows in Python
-
----
-
-<h2>🎓 Credentials</h2>
-
-- CFA Level II Candidate  
-- Financial Modeling & Valuation Analyst (FMVA)  
-- Capital Markets & Securities Analyst (CMSA)  
-- B.B.A. in Financial Markets and Institutions — Highest Honors  
-
----
-
-<h2>🤝 Connect With Me</h2>
+<h2>Connect With Me</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/mohammed-gamal0">
@@ -111,5 +113,5 @@ I am actively building public projects around:
 ---
 
 <p>
-Focused on building practical, finance-native tools that connect investment research, portfolio management, and automation.
+I’m building this profile as a public record of my progress in combining finance, coding, and investment analytics.
 </p>

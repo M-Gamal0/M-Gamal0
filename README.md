@@ -96,14 +96,17 @@ The goal is to build useful finance-native tools, not generic coding projects.
 
 ---
 
-<h2>Connect With Me</h2>
-
 <p>
   <a href="https://www.linkedin.com/in/mohammed-gamal0">
-    <img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="LinkedIn" width="28px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
+
   <a href="https://github.com/M-Gamal0">
-    <img align="left" alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="left" alt="GitHub" width="28px" src="https://cdn.simpleicons.org/github/6e7681" />
+  </a>
+
+  <a href="mailto:mohammedgamal5556@gmail.com">
+    <img align="left" alt="Email" width="28px" src="https://cdn.simpleicons.org/gmail/EA4335" />
   </a>
 </p>
 
